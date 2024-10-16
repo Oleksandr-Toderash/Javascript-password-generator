@@ -25,3 +25,6 @@ this example helps you to create a simple password generator for your project an
 
 ## Contributing
 Feel free to open a pull request if you have any suggestions for improvements or new features!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
